@@ -6,13 +6,12 @@ Lista de materias uteis sobre blockchain
   - [Github](https://github.com/bitcoinbook/bitcoinbook)
 
 ## Artigos
-  - [blockchiam público vs blockchain privado](http://cantarinobrasileiro.com.br/blog/voce-conhece-as-diferencas-entre-blockchain-publica-e-privada/)
+  - [blockchian público vs blockchain privado](http://cantarinobrasileiro.com.br/blog/voce-conhece-as-diferencas-entre-blockchain-publica-e-privada/)
   - [Recomendações: O Estudo e o Inconformismo - Tiago Salem](http://tiagosalem.com.br/recomenda/)
   - [Blockchain: guia completo](https://cio.com.br/blockchain-o-guia-completo/)
   - [Programadores Para área de Blockchain](https://tribocrypto.com/t/programadores-para-area-de-blockchain/682)
   - [Melhores Linguagens de Programação para Blockchain](https://livecoins.com.br/melhores-linguagens-de-programacao-para-blockchain/)
-  - [Guia completo do blockkcahin](https://cio.com.br/blockchain-o-guia-completo/)
-  - 
+  - [Guia completo do blockchain](https://cio.com.br/blockchain-o-guia-completo/)
 
 ## Canais do Youtube
   - [Fábio Akita - Youtube](https://www.youtube.com/watch?v=QNLd8TZ_JQc&list=PLdsnXVqbHDUeR_OhvhLfLfpe3eXadNCW2)
