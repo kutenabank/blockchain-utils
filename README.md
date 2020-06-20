@@ -1,4 +1,4 @@
-# blockchain-materials
+# Lista de materiais relacionados a blockchain
 Lista de materias uteis sobre blockchain
 
 ## Livros
