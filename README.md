@@ -12,9 +12,9 @@ Lista de materias uteis sobre blockchain
   - [Programadores Para área de Blockchain](https://tribocrypto.com/t/programadores-para-area-de-blockchain/682)
   - [Melhores Linguagens de Programação para Blockchain](https://livecoins.com.br/melhores-linguagens-de-programacao-para-blockchain/)
   - [Guia completo do blockchain](https://cio.com.br/blockchain-o-guia-completo/)
-  - [Blockchain na logística:Como essa tecnologia revolucionará o mercado?] (https://www.intelipost.com.br/blockchain/)
-  - [Consultoria Blockchain] (https://www.intelipost.com.br/consultoria-blockchain/)
-  - [On-premise ou cloud: qual servidor é o ideal para o seu e-commerce?] (https://www.intelipost.com.br/blog/on-premise-ou-cloud-qual-servidor-e-o-ideal-para-o-seu-e-commerce/)
+  - [Blockchain na logística:Como essa tecnologia revolucionará o mercado?](https://www.intelipost.com.br/blockchain/)
+  - [Consultoria Blockchain](https://www.intelipost.com.br/consultoria-blockchain/)
+  - [On-premise ou cloud: qual servidor é o ideal para o seu e-commerce?](https://www.intelipost.com.br/blog/on-premise-ou-cloud-qual-servidor-e-o-ideal-para-o-seu-e-commerce/)
 
 ## Canais do Youtube
   - [Fábio Akita - Youtube](https://www.youtube.com/watch?v=QNLd8TZ_JQc&list=PLdsnXVqbHDUeR_OhvhLfLfpe3eXadNCW2)
