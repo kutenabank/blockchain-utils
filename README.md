@@ -14,6 +14,11 @@ Lista de materias uteis sobre blockchain
   - [Guia completo do blockchain](https://cio.com.br/blockchain-o-guia-completo/)
   - [Blockchain na logística:Como essa tecnologia revolucionará o mercado?](https://www.intelipost.com.br/blockchain/)
   - [Consultoria Blockchain](https://www.intelipost.com.br/consultoria-blockchain/)
+  - [How Can Blockchain Technology Be Applied In Real Life?](https://bernardmarr.com/default.asp?contentID=1788)
+  - [What Blockchain Can’t Do](https://hbr.org/2018/06/what-blockchain-cant-do)
+  - [20 Real-World Uses for Blockchain Technology](https://www.fool.com/investing/2018/04/11/20-real-world-uses-for-blockchain-technology.aspx)
+  - [“Blockchain: What is It, and How It Can Be Used?”](https://steelkiwi.com/blog/blockchain-what-are-they-and-how-it-can-be-used/)
+  - [How agriculture can benefit from blockchain](https://www.theglobaltreasurer.com/2018/05/09/how-agriculture-can-benefit-from-blockchain/)
   - [On-premise ou cloud: qual servidor é o ideal para o seu e-commerce?](https://www.intelipost.com.br/blog/on-premise-ou-cloud-qual-servidor-e-o-ideal-para-o-seu-e-commerce/)
 
 ## Canais do Youtube
